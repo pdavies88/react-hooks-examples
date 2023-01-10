@@ -28,6 +28,12 @@ export default function Home() {
         <button>
           <Link href="/search">Google Search</Link>
         </button>
+        <button>
+          <Link href="/gallery">Gallery with transition</Link>
+        </button>
+        <button>
+          <Link href="/joke">Joke</Link>
+        </button>
       </main>
     </>
   );
