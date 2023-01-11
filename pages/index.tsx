@@ -34,6 +34,12 @@ export default function Home() {
         <button>
           <Link href="/joke">Joke</Link>
         </button>
+        <button>
+          <Link href="/matrix">Matrix</Link>
+        </button>
+        <button>
+          <Link href="/stories">Stories</Link>
+        </button>
       </main>
     </>
   );
